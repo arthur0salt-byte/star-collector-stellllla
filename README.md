@@ -1,2 +1,2 @@
 # star-collector-stellllla
-obj files
+star collector files
